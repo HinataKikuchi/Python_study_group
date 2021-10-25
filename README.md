@@ -6,7 +6,7 @@ Pythonの勉強を実践に沿った形でお届けしたいレポジトリで�
 ## Structure : ディレクトリ構造
 
 ```md
-.
+Python_study_group
 ├── Lesson0.ipynb
 ├── README.md
 └── target_files
